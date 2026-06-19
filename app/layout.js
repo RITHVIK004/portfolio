@@ -20,7 +20,7 @@ export const metadata = {
     default: 'Rithvik R - Full Stack Developer | Java & Spring Boot',
     template: '%s | Rithvik R',
   },
-  description: 'Rithvik R is a CSE Final Year student from GCE Erode specializing in Java, Spring Boot, AWS, Django, Next.js and full-stack web development. Open to software developer roles.',
+  description: 'Rithvik R is a CSE Graduate (2026) from GCE Erode specializing in Java, Spring Boot, AWS, Django, Next.js and full-stack web development. Open to software developer roles.',
   keywords: [
     'Rithvik R',
     'Rithvik',
