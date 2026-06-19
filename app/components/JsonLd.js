@@ -8,7 +8,7 @@
       url: 'https://rithvik-dev.netlify.app',
       image: 'https://rithvik-dev.netlify.app/rithvik.jpg',
       jobTitle: 'Full Stack Developer',
-      description: 'CSE Final Year student from GCE Erode specializing in Java, Spring Boot, AWS and full-stack development.',
+      description: 'CSE Graduate (2026) from GCE Erode specializing in Java, Spring Boot, AWS and full-stack development.',
       email: 'rineeshnitheen@gmail.com',
       address: {
         '@type': 'PostalAddress',
