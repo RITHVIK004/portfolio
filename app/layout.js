@@ -84,7 +84,7 @@ export const metadata = {
     url: 'https://rithvik-dev.netlify.app',
     siteName: 'Rithvik R Portfolio',
     title: 'Rithvik R - Software Developer | Java & Spring Boot',
-    description: 'CSE Final Year student from GCE Erode. Building scalable backends with Java, Spring Boot & AWS. Open to software developer roles.',
+    description: 'Rithvik R is a CSE Graduate (2026) from GCE Erode specializing in Java, Spring Boot, AWS, Django, Next.js and full-stack web development. Open to software developer roles.',
     images: [
       {
         url: 'https://rithvik-dev.netlify.app/og-image.png',
